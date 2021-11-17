@@ -1,0 +1,2 @@
+# EarthBit
+NFT Minting Platform
